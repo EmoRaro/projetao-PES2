@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cadastro_de_usuario.xml",
+        "source": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\src\\main\\res\\layout\\cadastro_de_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listagem_usuarios_cadastros.xml",
+        "source": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\src\\main\\res\\layout\\listagem_usuarios_cadastros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Emo Raro\\Documents\\AndroidStudioProjects\\Projetao2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
